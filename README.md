@@ -11,3 +11,13 @@ While rounding Alpha Centauri en route to its first destination—the torrid 55 
 To help rescue crews and retrieve the lost passengers, you are challenged to predict which passengers were transported by the anomaly using records recovered from the spaceship’s damaged computer system.
 
 Help save them and change history!
+
+## Project Roadmap:
+
+1. Problem Understanding and Goal Definition:
+2. Data Exploration and Preprocessing:
+3. Feature Engineering:
+4. Model Selection and Training:
+5. Model Evaluation and Validation:
+6. Deployment and Communication:
+7. Iteration and Monitoring:
